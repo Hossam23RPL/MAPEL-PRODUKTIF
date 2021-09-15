@@ -1,4 +1,5 @@
 Komunikasi daring singkron
+-       Line
 Kompetensi daring asingkron
-Github
-Git
+-       Email
+
