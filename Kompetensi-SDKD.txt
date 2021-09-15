@@ -8,3 +8,4 @@ Github
 -Membuat file baru
 -Membuat commit
 Git
+-Belum
