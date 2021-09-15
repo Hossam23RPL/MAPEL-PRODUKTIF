@@ -3,4 +3,7 @@ Komunikasi daring singkron
 Kompetensi daring asingkron
 -       Email
 Github
+-Membuat akun
+-Membuat repository (file baru dan commit)
 Git
+-Belum
